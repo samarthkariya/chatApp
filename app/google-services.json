@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158965117770",
+    "project_id": "samwhatsapp-96918",
+    "storage_bucket": "samwhatsapp-96918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158965117770:android:9fb51d4e8f119a854b07b3",
+        "android_client_info": {
+          "package_name": "com.raja.sammy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158965117770-o2rk5063000r2qu5p7b07ftnj1totjq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhgdjzmmiol2mOQNTAUoio_vpiDAAPodg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158965117770-o2rk5063000r2qu5p7b07ftnj1totjq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
